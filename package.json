@@ -2,16 +2,16 @@
   "name": "mern-chat-app-backend",
   "version": "1.0.0",
   "description": "Backend for MERN stack chat application",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "keywords": [
     "mern",
     "chat",
     "backend"
   ],
-  "author": "Your Name",
+  "author": "Prabhu",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.1",
